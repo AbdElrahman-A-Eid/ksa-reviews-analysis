@@ -7,7 +7,7 @@ This repository contains a comprehensive analysis of Google reviews for business
 ## Project Structure
 
 ```bash
-ksa-reviews/
+ksa-reviews-analysis/
 ├── data/
 │ ├── dataset.csv
 │ ├── mappings.json
